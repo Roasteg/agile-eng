@@ -68,8 +68,4 @@ body {
 .fade-enter, .fade-leave-active {
   opacity: 0;
 }
-
-.navigation {
-  min-width: 20%;
-}
 </style>

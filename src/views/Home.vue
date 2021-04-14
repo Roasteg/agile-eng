@@ -29,9 +29,6 @@ export default {
 </script>
 
 <style lang="scss">
-#home {
-  margin: 5px 10px;
-}
 
 p {
   overflow: hidden;

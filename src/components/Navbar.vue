@@ -14,7 +14,8 @@ export default {};
   display: flex;
   flex-direction: column;
   width: 350px;
-
+  min-width: 350px;
+  margin-right: 5px;
   a {
     text-decoration: none;
     text-align: center;
