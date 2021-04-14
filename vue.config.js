@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/agile-eng/'
+  publicPath: process.env.NODE_ENV === 'production'
+      ? '/agile-eng/'
+      : '/'
 }
