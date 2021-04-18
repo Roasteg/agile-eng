@@ -8,11 +8,9 @@
     </p>
     <ol>
       <li>Shortening the delay of benefits to users in order to resolve the product-market fit and development graveyard
-        problems
-      </li>
+        problems</li>
       <li>Getting feedback from users quickly to confirm the usefulness of new software and continue to improve on it
-        accordingly.
-      </li>
+        accordingly.</li>
     </ol>
     <p>
       While this meeting did not result in the Agile methodology we know today, it was a critical milestone in the

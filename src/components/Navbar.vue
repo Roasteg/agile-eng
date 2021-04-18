@@ -2,6 +2,7 @@
   <nav class="nav">
     <router-link to="/" active-class="active" exact>Home</router-link>
     <router-link to="/manifesto" active-class="active">Manifesto</router-link>
+    <router-link to="/scrum" active-class="active">Scrum</router-link>
   </nav>
 </template>
 

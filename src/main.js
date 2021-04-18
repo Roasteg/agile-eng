@@ -4,6 +4,7 @@ import VueRouter from "vue-router";
 
 import Home from "./views/Home";
 import Manifesto from "./views/Manifesto";
+import Scrum from "./views/Scrum";
 
 Vue.config.productionTip = false;
 
@@ -17,6 +18,10 @@ const routes = [
   {
     path: "/manifesto",
     component: Manifesto
+  },
+  {
+    path: "/scrum",
+    component: Scrum
   }
 ];
 
