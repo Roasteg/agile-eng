@@ -3,6 +3,9 @@
     <router-link to="/" active-class="active" exact>Home</router-link>
     <router-link to="/manifesto" active-class="active">Manifesto</router-link>
     <router-link to="/scrum" active-class="active">Scrum</router-link>
+    <router-link to="/risks" active-class="active">Risks</router-link>
+    <router-link to="/stories-rus" active-class="active">User Stories</router-link>
+    <router-link to="/wiki" active-class="active">Wiki</router-link>
   </nav>
 </template>
 
