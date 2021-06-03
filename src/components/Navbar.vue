@@ -6,6 +6,7 @@
     <router-link to="/risks" active-class="active">Risks</router-link>
     <router-link to="/stories-rus" active-class="active">User Stories</router-link>
     <router-link to="/wiki" active-class="active">Wiki</router-link>
+    <router-link to="/progress" active-class="active">Progress</router-link>
   </nav>
 </template>
 

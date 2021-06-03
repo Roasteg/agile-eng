@@ -7,6 +7,7 @@ import Manifesto from "./views/Manifesto";
 import Scrum from "./views/Scrum";
 import Risks_eng from "./views/Risks";
 import Stories_rus from "./views/Stories-rus";
+import Progress from "./views/Project";
 
 Vue.config.productionTip = false;
 
@@ -36,6 +37,10 @@ const routes = [
   {
     path: "/wiki",
     beforeEnter() {location.href = 'https://dev.azure.com/bredbrains/Wish%20List/_wiki/wikis/Wish-List.wiki/2/Introduction'}
+  },
+  {
+    path: "/progress",
+    component: Progress
   }
 
 ];
